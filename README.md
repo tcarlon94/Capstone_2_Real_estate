@@ -14,7 +14,8 @@ Finally, the trained model is used to predict home prices for the next 5 years b
 
 The project provides key predictions for home prices by location for the next five years. These predictions are derived from:
 
-Historical trends and patterns observed in the real estate data.
-The robust predictive power of the Gradient Boost Regressor model.
+- Historical trends and patterns observed in the real estate data.
+- The robust predictive power of the Ridge Regression model.
+
 Further details, including specific visualizations of the predicted home prices, are available within the project's analysis outputs.
 ```
